@@ -36,7 +36,9 @@ var quotes = ["It's not the size of the dog in the fight, but the size of the fi
 
 "The secret is in not giving up, of all the greats they didn't quit. If you quit I guarantee you're gonna fail, but you don't know what's gunna happen if you don't give in. -Eric Thomas",
 
-"Just decide; what's it's gonna be, who you're gonna be and how your gonna do it, and then from that point, the universe will get out of your way. -Will Smith"]
+"Just decide; what's it's gonna be, who you're gonna be and how your gonna do it, and then from that point, the universe will get out of your way. -Will Smith",
+              
+"I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life and that is why I succeed.- Michael Jordan"]
 
 function randomQuotes(){
     var randomNumber = Math.floor(Math.random() * (quotes.length));
